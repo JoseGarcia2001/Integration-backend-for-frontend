@@ -1,0 +1,22 @@
+.footer {
+  background-color: #ab88ff;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 100px;
+}
+
+.isHome {
+  background-color: #8f57fd;
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+  padding-left: 30px;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
